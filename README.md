@@ -106,7 +106,7 @@ In this example, we update Label from onPreExecute to notify the user about the 
 in doInBackground we do the task, and in onPostExecute we notify the user about the end of the task with
 the message passed from the background thread.
 
-To run this code you have to call execute the method and pass all the required parameters.
+To run this code you have to call execute method and pass all the required parameters.
 
 **Java**
 ```java
