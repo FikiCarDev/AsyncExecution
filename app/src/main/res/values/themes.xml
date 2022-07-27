@@ -1,3 +1,8 @@
+<!--
+  ~ Created by FikiCarDev
+  ~ Copyright (c) 2022. All rights reserved.
+  -->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Theme.AsyncExampleApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
