@@ -8,6 +8,17 @@
 
 ## Setup
 
+#### Add jitpack repository to settings.gradle
+```gradle
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        ...
+        maven { url 'https://jitpack.io' }
+    }
+}
+```
+
 #### Gradle
 ```gradle
 dependencies {
