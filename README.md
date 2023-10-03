@@ -22,14 +22,14 @@ dependencyResolutionManagement {
 #### Gradle
 ```gradle
 dependencies {
-    implementation 'com.github.FikiCarDev:AsyncExecution:1.0'
+    implementation 'com.github.filipobradovic:AsyncExecution:1.0'
 }
 ```
 
 #### Maven
 ```xml
 <dependency>
-    <groupId>com.github.FikiCarDev</groupId>
+    <groupId>com.github.filipobradovic</groupId>
     <artifactId>AsyncExecution</artifactId>
     <version>1.0</version>
 </dependency>
@@ -148,7 +148,3 @@ public void setOnProgressListener(OnProgressListener<PROGRESS> onProgressListene
 
 public void setOnCancelledListener(OnCancelledListener onCancelledListener) { }
 ```
----
-## Author
-
-[@FikiCarDev](https://github.com/FikiCarDev)
